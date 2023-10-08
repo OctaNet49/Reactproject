@@ -76,7 +76,7 @@ Let's Code the Future Together! 💻✨
             </div>
             <div>
                 <i className="fa-solid fa-user-graduate"></i>
-                <i className="fa-sharp fa-solid fa-head-side-gear " > <h6 className="bg-secondary my-5 d-block p-3 m-3">WORK EXPERIENCE </h6></i>
+                <i className="fa-sharp fa-solid fa-head-side-gear " > <h6 className="bg-secondary my-5 d-block p-3 m-3">Courses </h6></i>
         <ol>
             <li className="fs-bold bg-warning  d-block p-3 m-3 shadow"> Web-development fundamentals(Udemy)</li>
           <p className="text-warning">  2021 </p>
